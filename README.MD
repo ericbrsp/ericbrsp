@@ -1,5 +1,5 @@
 
-<p><img src="https://github.com/ericbrsp/ericbrsp/blob/master/homer.png" width="600"/> </p>
+<p><img src="https://github.com/ericbrsp/ericbrsp/blob/main/homer.png?raw=true" width="600"/> </p>
 
 ### Hi there 👋, my name is Eric
 
